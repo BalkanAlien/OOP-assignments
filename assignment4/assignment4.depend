@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1621784537 source:c:\users\marij\onedrive\desktop\assignment4\main.cpp
+	<iostream>
+	<fstream>
+	"../oop/library/summation.hpp"
+	"../oop/library/seqinfileenumerator.hpp"
+	"../oop/library/stringstreamenumerator.hpp"
+	"../oop/library/linsearch.hpp"
+
+1621694077 c:\users\marij\onedrive\desktop\oop\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1621694077 c:\users\marij\onedrive\desktop\oop\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1621694077 c:\users\marij\onedrive\desktop\oop\library\enumerator.hpp
+
+1621694077 c:\users\marij\onedrive\desktop\oop\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1621694077 c:\users\marij\onedrive\desktop\oop\library\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1621694077 c:\users\marij\onedrive\desktop\oop\library\linsearch.hpp
+	"procedure.hpp"
+
