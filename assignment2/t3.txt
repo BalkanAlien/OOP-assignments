@@ -1,0 +1,5 @@
+IMIBA Kiliti0512 catfish 55  catfish 53
+JANIBA Kiliti0512 jellyfish 45 catfish 53 catfish 96
+IMIBA Tiszato0610 catfish 51 jellyfish 52
+IMIBA Szeged0807 jellyfish 53 catfish 48 catfish 96
+JANIBA Szeged0807 jellyfish 45 catfish 53 catfish 96
